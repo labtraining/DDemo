@@ -1,5 +1,5 @@
 FROM jenkins:latest
-MAINTAINER RajaPandian <pandian_3k@hotmail.com>
+MAINTAINER Ernest Mueller <ernestmueller@theagileadmin.com>
 
 USER root
 
